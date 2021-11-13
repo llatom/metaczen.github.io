@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdata_analysis=self.webpackChunkdata_analysis||[]).push([[530],{6187:function(a){a.exports=JSON.parse('{"permalink":"/data-analysis/index.html/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
