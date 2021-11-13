@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://cderek.github.io',
-  baseUrl: 'https://cderek.github.io/data-analysis/',
+  title: '数据统计与分析',
+  tagline: 'Data analysis',
+  url: 'https://cderek.github.io/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
   organizationName: 'cderek', // Usually your GitHub org/user name.
-  projectName: 'data-analysis', // Usually your repo name.
+  projectName: 'cderek.github.io', // Usually your repo name.
 
   themes: ['@docusaurus/theme-live-codeblock'],
 
@@ -72,7 +72,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
                 label: 'Python教程',
@@ -81,7 +81,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
                 label: 'Stack Overflow',
@@ -98,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Blog',
