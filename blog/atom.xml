@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cderek.github.io/blog"/>
     <subtitle>数据统计与分析 Blog</subtitle>
-    <icon>https://cderek.github.io/img/favicon.svg</icon>
+    <icon>https://cderek.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
