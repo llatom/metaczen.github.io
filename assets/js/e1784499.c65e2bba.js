@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdata_analysis=self.webpackChunkdata_analysis||[]).push([[248],{1053:function(a){a.exports=JSON.parse('{"allTagsPath":"https://cderek.github.io/data-analysis/blog/tags","slug":"https://cderek.github.io/data-analysis/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"https://cderek.github.io/data-analysis/blog/tags/docusaurus"}')}}]);

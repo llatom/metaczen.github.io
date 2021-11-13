@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdata_analysis=self.webpackChunkdata_analysis||[]).push([[668],{2979:function(a){a.exports=JSON.parse('{"allTagsPath":"https://cderek.github.io/data-analysis/blog/tags","slug":"https://cderek.github.io/data-analysis/blog/tags/hola","name":"hola","count":1,"permalink":"https://cderek.github.io/data-analysis/blog/tags/hola"}')}}]);
