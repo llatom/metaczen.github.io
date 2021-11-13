@@ -16,6 +16,8 @@ const config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
+  themes: ['@docusaurus/theme-live-codeblock'],
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -43,9 +45,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: '数据统计与分析',
         logo: {
-          alt: 'My Site Logo',
+          alt: '数据统计与分析 Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -53,13 +55,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Python教程',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'JavaScript教程', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'R语言教程',
           },
         ],
       },
@@ -70,7 +73,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Python教程',
                 to: '/docs/intro',
               },
             ],
@@ -101,7 +104,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/cderek',
               },
             ],
           },
