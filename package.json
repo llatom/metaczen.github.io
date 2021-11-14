@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build  && cp ./CNAME ./build/",
+    "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "gh-pages -d build",
     "clear": "docusaurus clear",
@@ -29,11 +29,7 @@
     "url-loader": "^4.1.1"
   },
   "browserslist": {
-    "production": [
-      ">0.5%",
-      "not dead",
-      "not op_mini all"
-    ],
+    "production": [">0.5%", "not dead", "not op_mini all"],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
