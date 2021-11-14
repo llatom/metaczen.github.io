@@ -14,7 +14,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.svg',
+  favicon: 'img/favicon.ico',
   organizationName: 'cderek', // Usually your GitHub org/user name.
   projectName: 'cderek.github.io', // Usually your repo name.
 
